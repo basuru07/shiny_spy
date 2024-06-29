@@ -10,3 +10,8 @@ Presenting ShineSpy, our latest mobile app designed to revolutionize your skin c
 - 𝐓𝐚𝐢𝐥𝐨𝐫𝐞𝐝 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 : Get customized recommendations for skin care products that are perfectly suited to your unique needs based on your skin's oiliness level, ensuring you achieve the best results.
   
 - 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 : Engage with our chatbot, equipped with predefined answers to common skincare questions, providing instant support and guidance.
+
+## Demonstration
+
+https://github.com/basuru07/shiny_spy/assets/114737698/81f93e96-bddf-4520-a68c-59f6cdd08ba2
+
